@@ -1,5 +1,5 @@
 ![npm](https://img.shields.io/npm/v/@taitems/jquery-gantt)
-## [Demo and Documentation](http://taitems.github.com/jQuery.Gantt/) https://github.com/taitems/jQuery.Gantt.git
+## [Demo and Documentation](http://taitems.github.io/jQuery.Gantt/) 
 
 ## Installation
 
